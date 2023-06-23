@@ -1,4 +1,4 @@
-# Checkout my Portfolio Website
+# Checkout My Portfolio Website
 [Click here to find the hosted site](https://saidhanushv.github.io/)
 - Feel free to use it as a template!
 - Extension of my resume
